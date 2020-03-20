@@ -1,0 +1,9 @@
+---Resources---
+
+https://github.com/anilsai/Wrangle-OpenStreetMap-Data-SQL-database-Udacity-project
+
+Udacity's Case Study: OpenStreetMap Data [SQL]
+
+
+
+-These 2 resources were a big help in completing the project, expecially Udacity's case study. I also used anilsai's code to assist in the shape_element function provided.
